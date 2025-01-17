@@ -67,7 +67,10 @@ Donut chart: Visualizes quarterly death distribution.
 Cards: Summarize high-level metrics for quick insights.
 
 Long-Term Recommendations:
+
 •	Ongoing Vigilance: Given the ongoing nature of COVID-19, it is essential for healthcare systems and governments to maintain long-term preparedness for potential surges and the emergence of new variants.
+
 •	Boost Public Health Campaigns: Public health campaigns should remain active, particularly for vaccination and mental health, to ensure individuals are informed and protected.
+
 •	Prepare for Post-Pandemic Recovery: As the world gradually recovers, governments and organizations should focus on rebuilding economies, mental health support systems, and ensuring that healthcare infrastructure is sustainable for future crises.
 
